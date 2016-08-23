@@ -1,0 +1,3 @@
+pattern recognition
+AAAI
+International Journal of Machine Learning and Cybernetics
